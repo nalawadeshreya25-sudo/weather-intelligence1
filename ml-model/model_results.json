@@ -1,0 +1,6 @@
+{
+  "predicted_temperature": 21.4,
+  "mean_absolute_error": 3.01,
+  "model_type": "Linear Regression",
+  "data_type": "Synthetic sample data"
+}
